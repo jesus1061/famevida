@@ -1,0 +1,157 @@
+#blocke{display: table;}
+@media only screen and (min-width: 600px) {
+#h2-normal{font-size: 40px; color: white;}
+body{width: 100%; margin: auto; background-image: url("../images/banner1.jpg"); background-size: 120%; background-attachment: fixed;}
+img{border: none}
+.site-wrap{width: 100%;}
+ .owl-carousel , .intro-engage , #about-section , #section2 , #team-section{background-color: white;width: 90%; margin: auto; margin-top: 20px; margin-bottom: 20px;-webkit-box-shadow: -1px 0px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 0px 5px 0px rgba(0,0,0,0.75);
+box-shadow: -1px 0px 5px 0px rgba(0,0,0,0.75);}
+#blocke{width: 90%; margin: auto; position: relative; padding: 50px;background-color: rgb(255,255,255,0.70)}
+
+.unidades{width: 50%; float: left;  box-sizing: border-box;position: relative; text-align: center; padding: 20px; }
+.unidad{ width: 100%; margin: auto; float: left;  box-sizing: border-box; -webkit-box-shadow: -1px 0px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 0px 5px 0px rgba(0,0,0,0.75);
+box-shadow: -1px 0px 5px 0px rgba(0,0,0,0.75); padding: 10px; }
+.unidades img{width: 100%;}
+.btn-ver-mas{position: relative;z-index: 2}
+#blocke{margin-top: 30px; margin-bottom: 30px;border: 2px groove #3ba47f;}
+#about-section{border: 2px groove black;}
+#section2{border: 2px groove black;}
+.talento-contact .rounded{-webkit-box-shadow: -1px 0px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 0px 5px 0px rgba(0,0,0,0.75);
+box-shadow: -1px 0px 5px 0px  padding: 20px; margin-top: 5px; margin-bottom: 5px; cursor: pointer}
+.talento-contact .rounded:hover{border: dashed 1px #ff5c8f; color:black;}
+.site-footer .container{width: 100%;}
+.title-section{width: 100%; text-align: center; padding: 20px; color: white;}
+#container-footer{border: solid 1px white; padding: 20px; width: 100%; display: flex; align-items: center;}
+
+.column-footer{ padding: 0px; width: 50%; float: left; box-sizing: border-box;  box-sizing: border-box; }
+.formulario-contacto-footer{width: 95%; margin: auto;}
+.form-group{width: 90%; display: table;margin: auto; text-align: center;}
+.input-form { padding: 3px; width: 80%;  }
+#textarea{height: 100px;}
+.form-group label{color:white;}
+.mapa{width: 100%; margin: auto; text-align: center;}
+#btn-enviar{background-color:#a43474 ; color: white; border: none; cursor: pointer; padding: 5px; width: 100px; font-weight: 900;}
+.site-section{padding: 0;}
+.facebook{width: 100%;float: left; border: solid 1px white;}
+.text-white{color: black;}
+}
+@media only screen and (min-width: 768px) {
+#h2-normal{font-size: 40px; color: white;}
+body{width: 100%; margin: auto; background-image: url("../images/banner1.jpg"); background-size: 100%; background-attachment: fixed;}
+img{border: none}
+.site-wrap{width: 100%;}
+ .owl-carousel , .intro-engage , #about-section , #section2 , #team-section{background-color: white;width: 90%; margin: auto; margin-top: 20px; margin-bottom: 20px;-webkit-box-shadow: -1px 0px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 0px 5px 0px rgba(0,0,0,0.75);
+box-shadow: -1px 0px 5px 0px rgba(0,0,0,0.75);}
+#blocke{width: 90%; margin: auto; position: relative; padding: 50px;background-color: rgb(255,255,255,0.70)}
+
+.unidades{width: 50%; float: left;  box-sizing: border-box;position: relative; text-align: center; padding: 20px; }
+.unidad{ width: 100%; margin: auto; float: left;  box-sizing: border-box; -webkit-box-shadow: -1px 0px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 0px 5px 0px rgba(0,0,0,0.75);
+box-shadow: -1px 0px 5px 0px rgba(0,0,0,0.75); padding: 10px; }
+.unidades img{width: 100%;}
+.btn-ver-mas{position: relative;z-index: 2}
+#blocke{margin-top: 30px; margin-bottom: 30px;border: 2px groove #3ba47f;}
+#about-section{border: 2px groove black;}
+#section2{border: 2px groove black;}
+.talento-contact .rounded{-webkit-box-shadow: -1px 0px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 0px 5px 0px rgba(0,0,0,0.75);
+box-shadow: -1px 0px 5px 0px  padding: 20px; margin-top: 5px; margin-bottom: 5px; cursor: pointer}
+.talento-contact .rounded:hover{border: dashed 1px #ff5c8f; color:black;}
+.site-footer .container{width: 100%;}
+.title-section{width: 100%; text-align: center; padding: 20px; color: white;}
+#container-footer{border: solid 1px white; padding: 20px; width: 100%; display: flex; align-items: center;}
+
+.column-footer{ padding: 0px; width: 50%; float: left; box-sizing: border-box;  box-sizing: border-box; }
+.formulario-contacto-footer{width: 95%; margin: auto;}
+.form-group{width: 90%; display: table;margin: auto; text-align: center;}
+.input-form { padding: 3px; width: 80%;  }
+#textarea{height: 100px;}
+.form-group label{color:white;}
+.mapa{width: 100%; margin: auto; text-align: center;}
+#btn-enviar{background-color:#a43474 ; color: white; border: none; cursor: pointer; padding: 5px; width: 100px; font-weight: 900;}
+.site-section{padding: 0;}
+.facebook{width: 100%;float: left; border: solid 1px white;}
+.text-white{color: black;}
+}
+@media only screen and (min-width: 992px) {
+#h2-normal{font-size: 40px; color: white;}
+body{width: 100%; margin: auto; background-image: url("../images/banner1.jpg"); background-size: 100%; background-attachment: fixed;}
+img{border: none}
+.site-wrap{width: 100%;}
+ .owl-carousel , .intro-engage , #about-section , #section2 , #team-section{background-color: white;width: 90%; margin: auto; margin-top: 20px; margin-bottom: 20px;-webkit-box-shadow: -1px 0px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 0px 5px 0px rgba(0,0,0,0.75);
+box-shadow: -1px 0px 5px 0px rgba(0,0,0,0.75);}
+#blocke{width: 90%; margin: auto; position: relative; padding: 50px;background-color: rgb(255,255,255,0.70)}
+
+.unidades{width: 33.333333%; float: left;  box-sizing: border-box;position: relative; text-align: center; padding: 20px; }
+.unidad{ width: 100%; margin: auto; float: left;  box-sizing: border-box; -webkit-box-shadow: -1px 0px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 0px 5px 0px rgba(0,0,0,0.75);
+box-shadow: -1px 0px 5px 0px rgba(0,0,0,0.75); padding: 10px; }
+.unidades img{width: 100%;}
+.btn-ver-mas{position: relative;z-index: 2}
+#blocke{margin-top: 30px; margin-bottom: 30px;border: 2px groove #3ba47f;}
+#about-section{border: 2px groove black;}
+#section2{border: 2px groove black;}
+.talento-contact .rounded{-webkit-box-shadow: -1px 0px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 0px 5px 0px rgba(0,0,0,0.75);
+box-shadow: -1px 0px 5px 0px  padding: 20px; margin-top: 5px; margin-bottom: 5px; cursor: pointer}
+.talento-contact .rounded:hover{border: dashed 1px #ff5c8f; color:black;}
+.site-footer .container{width: 100%;}
+.title-section{width: 100%; text-align: center; padding: 20px; color: white;}
+#container-footer{border: solid 1px white; padding: 20px; width: 100%; display: flex; align-items: center;}
+
+.column-footer{ padding: 0px; width: 50%; float: left; box-sizing: border-box;  box-sizing: border-box; }
+.formulario-contacto-footer{width: 95%; margin: auto;}
+.form-group{width: 90%; display: table;margin: auto; text-align: center;}
+.input-form { padding: 3px; width: 80%;  }
+#textarea{height: 100px;}
+.form-group label{color:white;}
+.mapa{width: 100%; margin: auto; text-align: center;}
+#btn-enviar{background-color:#a43474 ; color: white; border: none; cursor: pointer; padding: 5px; width: 100px; font-weight: 900;}
+.site-section{padding: 0;}
+.facebook{width: 100%;float: left; border: solid 1px white;}
+.text-white{color: black;}
+}
+@media only screen and (min-width: 1200px) {
+#h2-normal{font-size: 40px; color: white;}
+body{width: 100%; margin: auto; background-image: url("../images/banner1.jpg"); background-size: 100%; background-attachment: fixed;}
+img{border: none}
+.site-wrap{width: 100%;}
+ .owl-carousel , .intro-engage , #about-section , #section2 , #team-section{background-color: white;width: 90%; margin: auto; margin-top: 20px; margin-bottom: 20px;-webkit-box-shadow: -1px 0px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 0px 5px 0px rgba(0,0,0,0.75);
+box-shadow: -1px 0px 5px 0px rgba(0,0,0,0.75);}
+#blocke{width: 90%; margin: auto; position: relative; padding: 50px;background-color: rgb(255,255,255,0.70)}
+
+.unidades{width: 33.333333%; float: left;  box-sizing: border-box;position: relative; text-align: center; padding: 20px; }
+.unidad{ width: 100%; margin: auto; float: left;  box-sizing: border-box; -webkit-box-shadow: -1px 0px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 0px 5px 0px rgba(0,0,0,0.75);
+box-shadow: -1px 0px 5px 0px rgba(0,0,0,0.75); padding: 10px; }
+.unidades img{width: 100%;}
+.btn-ver-mas{position: relative;z-index: 2}
+#blocke{margin-top: 30px; margin-bottom: 30px;border: 2px groove #3ba47f;}
+#about-section{border: 2px groove black;}
+#section2{border: 2px groove black;}
+.talento-contact .rounded{-webkit-box-shadow: -1px 0px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 0px 5px 0px rgba(0,0,0,0.75);
+box-shadow: -1px 0px 5px 0px  padding: 20px; margin-top: 5px; margin-bottom: 5px; cursor: pointer}
+.talento-contact .rounded:hover{border: dashed 1px #ff5c8f; color:black;}
+.site-footer .container{width: 100%;}
+.title-section{width: 100%; text-align: center; padding: 20px; color: white;}
+#container-footer{border: solid 1px white; padding: 20px; width: 100%; display: flex; align-items: center;}
+
+.column-footer{ padding: 0px; width: 50%; float: left; box-sizing: border-box;  box-sizing: border-box; }
+.formulario-contacto-footer{width: 95%; margin: auto;}
+.form-group{width: 90%; display: table;margin: auto; text-align: center;}
+.input-form { padding: 3px; width: 80%;  }
+#textarea{height: 100px;}
+.form-group label{color:white;}
+.mapa{width: 100%; margin: auto; text-align: center;}
+#btn-enviar{background-color:#a43474 ; color: white; border: none; cursor: pointer; padding: 5px; width: 100px; font-weight: 900;}
+.site-section{padding: 0;}
+.facebook{width: 100%;float: left; border: solid 1px white;}
+.text-white{color: black;}
+}

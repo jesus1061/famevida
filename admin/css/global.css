@@ -1,0 +1,17 @@
+/*Encabezado*/
+#color-encabezado{background-color: #144c84; }
+#color-encabezado h5{color:white;}
+#color-encabezado .icon{color:white;}
+#formulario-nuevo{width: 100%; margin: auto;}
+#formulario{width: 100%; }
+#formulario-cajon{width: 80%; margin: auto; }
+.form-control{width: 100%; margin: auto;  text-align: center; padding-top: 5px; padding-bottom: 5px; margin-top: 5px; margin-bottom: 5px;}
+/*Input*/
+.input-form, .input-textarea{width: 90%; border: solid 0.5px gray;}
+.input-textarea{resize: none}
+.label-form{font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; font-weight: 900;}
+#textarea_blog{resize: none;}
+.encabezados-tabla{color:black; font-weight: 900;}
+#tr-principal{text-align: center;}
+#trash{color:red; cursor: pointer; font-size: 20px; cursor: pointer; justify-content:  center}
+#pencil{color:orange; cursor: pointer; font-size: 20px; cursor: pointer; justify-content:  center}
